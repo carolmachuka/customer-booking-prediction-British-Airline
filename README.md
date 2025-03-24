@@ -19,9 +19,9 @@ This project uncovers the hidden patterns behind booking decisions using **machi
 
 ## **Technologies Used**  
 - 🧠 **Machine Learning:** Random Forest Classifier, Feature Importance Analysis  
-- 🐍 **Programming:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)  
+- 🐍 **Python:**  Pandas, NumPy, Scikit-Learn.   
 - 🛠 **Development Environment:** Jupyter Notebook  
-- 📊 **Data Visualization:** Power BI / Tableau
+- 📊 **Data Visualization:** Matplotlib, Seaborn
 
 ## 📢 Contribute  
 If you have suggestions or improvements, feel free to submit a **pull request** or open an **issue**! 🚀  
