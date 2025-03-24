@@ -1,21 +1,34 @@
-# **Customer Booking Prediction – British Airways** ✈️📊  
+**Predicting Customer Bookings – British Airline**
 
-## **Project Overview**  
-This project uncovers the hidden patterns behind booking decisions using **machine learning**! By training a **Random Forest Classifier**, I analyze key factors influencing customer behavior, turning data into  insights that help the airline **optimize strategies to boost revenue and enhance customer experiences**.  
+### **Objective**
+- Develop a predictive model to determine the likelihood of a customer completing a booking.
 
-## **Key Features**  
-✅ **Data Preprocessing** – Encoding categorical variables and standardizing numerical features.  
-✅ **Model Training & Evaluation** – Training a **Random Forest model** to forecast customer bookings  assessed via accuracy, precision.  
-✅ **Feature Importance Analysis** – Identifying the **top factors** influencing bookings to optimize airline strategies.  
-✅ **Visual Insights** – Transforming complex patterns into **easy-to-understand visualizations** for business impact.
+### **Key Actions Taken**
+✅ **Data Preprocessing**
+- Encoded categorical variables and standardized numerical features.
 
-## **Results**  
-📊 **Model Accuracy:** 85.19%  
-📌 **Top Influencing Factors:** Purchase Lead, Route, Flight Hour, Length of Stay  
+✅ **Model Selection**
+- Training a **Random Forest model** to forecast customer bookings,  assessed the model's accuracy. 
+  
+✅ **Feature Importance Analysis**
+- Identified the **top factors** influencing bookings to optimize airline strategies.
+- 
+### **Results**
+📊 **Model Performance**
+- **Precision:** 85.19%
 
-## **Next Steps**  
-🚀 **Boost Performance** – Fine-tune the model to improve recall for completed bookings.  
-📡 **Deploy & Monitor** – Deploy the model and continuously refine it with fresh data for even better predictions.  
+🔍 **Top Features Influencing Bookings**
+1. Purchase lead (how early the booking was made)
+2. Route (travel path)
+3. Flight hour
+4. Length of stay
+
+
+### **Next Steps**
+🚀 **Deploy Model & Monitor Performance**
+- Implement in a real-world system.
+- Continuously monitor performance.
+- Further optimize based on new customer data insights.
 
 ## **Technologies Used**  
 - 🧠 **Machine Learning:** Random Forest Classifier, Feature Importance Analysis  
