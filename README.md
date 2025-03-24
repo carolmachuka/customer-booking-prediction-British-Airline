@@ -1,5 +1,7 @@
 Customer Booking Prediction – British Airways Data Science Simulation
+
 Project Overview
+
 This project focuses on predicting customer bookings using machine learning, based on a dataset provided in the British Airways Data Science Simulation. A Random Forest Classifier was trained to identify key factors influencing bookings, providing actionable insights for data-driven decision-making in the airline industry.
 
 Key Features
@@ -9,6 +11,7 @@ Key Features
 ✅ Visualization & Insights – Creating data-driven visuals to support business decisions.
 
 Results
+
 📊 Accuracy: 85.19%
 📌 Top Influencing Features: Purchase Lead, Route, Flight Hour, and Length of Stay.
 
