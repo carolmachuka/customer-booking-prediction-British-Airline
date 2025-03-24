@@ -1,7 +1,7 @@
 # **Customer Booking Prediction – British Airways** ✈️📊  
 
 ## **Project Overview**  
-This project uncovers the hidden patterns behind booking decisions using **machine learning**! By training a **Random Forest Classifier**, we analyze key factors influencing customer behavior, turning data into  insights that help airlines **optimize strategies to boost revenue and enhance customer experiences**.  
+This project uncovers the hidden patterns behind booking decisions using **machine learning**! By training a **Random Forest Classifier**, we analyze key factors influencing customer behavior, turning data into  insights that help the airline **optimize strategies to boost revenue and enhance customer experiences**.  
 
 ## **Key Features**  
 ✅ **Data Preprocessing** – Encoding categorical variables and standardizing numerical features.  
