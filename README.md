@@ -5,8 +5,7 @@
 
 ### **Data Source**
 - The dataset, provided by Forage for British Airways, consists of 50,000 entries and 14 variables.
-- check out https://www.theforage.com/simulations/british-airways/data-science-yqoz
-
+  
 ### **Key Actions Taken**
 ✅ **Data Preprocessing**
 - Encoded categorical variables and standardized numerical features.
