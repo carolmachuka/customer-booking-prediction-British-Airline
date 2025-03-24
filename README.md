@@ -1,4 +1,4 @@
-# **Customer Booking Prediction – British Airways Data Science Simulation** ✈️📊  
+# **Customer Booking Prediction – British Airways** ✈️📊  
 
 ## **Project Overview**  
 This project uncovers the hidden patterns behind booking decisions using **machine learning**! By training a **Random Forest Classifier**, we analyze key factors influencing customer behavior, turning data into  insights that help airlines **optimize strategies to boost revenue and enhance customer experiences**.  
@@ -21,4 +21,12 @@ This project uncovers the hidden patterns behind booking decisions using **machi
 - 🧠 **Machine Learning:** Random Forest Classifier, Feature Importance Analysis  
 - 🐍 **Programming:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)  
 - 🛠 **Development Environment:** Jupyter Notebook  
-- 📊 **Data Visualization:** Power BI / Tableau  
+- 📊 **Data Visualization:** Power BI / Tableau
+
+## 📢 Contribute  
+If you have suggestions or improvements, feel free to submit a **pull request** or open an **issue**! 🚀  
+
+### 🌍 Connect with Me  
+📧 **Email:** [machukacarol@gmail.com]  
+
+Lets collaborate on similar Projects 🚀
